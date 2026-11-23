@@ -1,6 +1,6 @@
 # Hi, I'm Mohamed Awad Moneer
 
-Third-year AI student at Delta University, working on Python backend and applied AI: REST APIs with Django and Flask, and retrieval-augmented generation.
+Third-year AI student at Delta University, working on Python backend and applied AI: REST APIs with Django and Flask, retrieval-augmented generation, and machine learning.
 
 ## Featured projects
 
@@ -10,7 +10,7 @@ Third-year AI student at Delta University, working on Python backend and applied
 
 ## Tech I work with
 
-Python - Django / Django REST Framework - Flask - TensorFlow / Keras - RAG (ChromaDB, FastEmbed) - Redis - Docker - pytest - GitHub Actions
+Python - Django / Django REST Framework - Flask - Machine Learning - Deep Learning - TensorFlow / Keras - RAG (ChromaDB, FastEmbed) - Redis - Docker - pytest - GitHub Actions
 
 ## Currently
 
